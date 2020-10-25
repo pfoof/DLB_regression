@@ -1,0 +1,7 @@
+*.json
+*.deb
+*.csv
+*.tar.gz
+logs/
+ckpt/
+*.zip
